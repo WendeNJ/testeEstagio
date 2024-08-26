@@ -29,4 +29,4 @@ const relatorio = vendasDatas(vendas, '2021-01-01', '2021-01-02');
 console.log('Valor por código:', relatorio.totalPorCod);
 console.log('Relatório vendas: R$', relatorio.valorTotalPeriodo.toFixed(2));
 
-// tive dificuldade
+// encontrei  dificuldade para fazer esse

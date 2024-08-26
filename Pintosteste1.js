@@ -36,4 +36,4 @@ rl.question('Olá, em quantas parcelas você vai querer seu financiamento? ', (p
     });
 });
 
-// ESSE PROJETO FOI UM POUCO MAIS COMPLEXO DO QUE VOCES PEDIRAM, TALVEZ SE INCOMODEM ( OU TALVEZ GOSTEM), MAS EU FIZ DESSA FORMA PQ ACHEI DIVERTIDO ( CREIO QUE TEM ALGUNS ERROS OU MUITOS KKK) MAS ESSE E O MEU PRIMEIRO CONTATO COM JS, TENHO MAIS CONTATO COM PYTHON, JAVA E ET
+// nao tenho muita experiencia com js, estudei e consegui fazer dessa forma, tenda uma "interaçao" com o usuario
